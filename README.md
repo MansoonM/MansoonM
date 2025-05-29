@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mansoon Mohanty</h1>
-<h3 align="center">A passionate Full Stack Web developer as well as a Python Developer from India</h3>
+<h3 align="center">A passionate Full Stack Web developer as well as a IOT Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansoonm&label=Profile%20views&color=0e75b6&style=flat" alt="mansoonm" /> </p>
 
@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **IOT based Project as well as Django based Project**
 
-- 🌱 I’m currently learning **React.js, Problem Solving Using Python**
+- 🌱 I’m currently learning **React.js, Problem Solving Using Python, Django**
 
-- 👯 I’m looking to collaborate on [Python Projects](https://github.com/MansoonM/Management-Systems)
+- 👯 I’m looking to collaborate on [Python/Django Projects](https://github.com/MansoonM/Management-Systems)
 
 - 🤝 I’m looking for help with **IOT and Django**
 
-- 👨‍💻 All of my projects are available at [https://mansoon-professional-portfolio.netlify.app/](https://mansoon-professional-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mansoon-professional-portfolio.netlify.app/](https://mansoon-moon.netlify.app/)
 
 - 💬 Ask me about **Web Development (PHP, Python, MySQL, Django, HTML/CSS, Javascript)**
 
