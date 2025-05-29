@@ -5,21 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansoonm" alt="mansoonm" /></a> </p>
 
-- 🔭 I’m currently working on **IOT based Project**
+- 🔭 I’m currently working on **IOT based Project as well as Django based Project**
 
 - 🌱 I’m currently learning **React.js, Problem Solving Using Python**
 
 - 👯 I’m looking to collaborate on [Python Projects](https://github.com/MansoonM/Management-Systems)
 
-- 🤝 I’m looking for help with **IOT**
+- 🤝 I’m looking for help with **IOT and Django**
 
 - 👨‍💻 All of my projects are available at [https://mansoon-professional-portfolio.netlify.app/](https://mansoon-professional-portfolio.netlify.app/)
 
-- 💬 Ask me about **Web Development (PHP, Python, MySQL)**
+- 💬 Ask me about **Web Development (PHP, Python, MySQL, Django, HTML/CSS, Javascript)**
 
 - 📫 How to reach me **mansoonmohanty111@gmail.com**
 
-- ⚡ Fun fact **I think I'm an Overthinker(thinking...)**
+- ⚡ Fun fact **I think I'm an Overthinker(still thinking...)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
