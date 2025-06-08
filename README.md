@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mansoon-professional-portfolio.netlify.app/](https://mansoon-moon.netlify.app/)
 
-- 💬 Ask me about **Web Development (PHP, Python, MySQL, Django, HTML/CSS, Javascript)**
+- 💬 Ask me about **Full Stack Web Development (PHP, Python, MySQL, Django, HTML/CSS, Javascript, Bootstrap, Tailwind, Basic React.js)**
 
 - 📫 How to reach me **mansoonmohanty111@gmail.com**
 
